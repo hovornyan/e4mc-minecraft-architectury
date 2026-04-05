@@ -8,6 +8,7 @@
     "BanPlayerCommandsMixin",
     "PardonCommandMixin",
     "ServerConnectionListenerMixin",
+    "IntegratedServerMixin",
     "WhitelistCommandMixin"
   ],
   "injectors": {
